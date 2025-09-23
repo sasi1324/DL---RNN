@@ -58,9 +58,9 @@ Plot actual versus predicted stock prices and display last predicted value.
 
 ## PROGRAM
 
-### Name: Meyyappan T
+### Name: SASINTHARA S
 
-### Register Number: 212223240086
+### Register Number: 212223110045
 
 ```python
 
